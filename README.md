@@ -29,6 +29,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,sass,html,css&theme=dark)](https://skillicons.dev)
 
+<img src="https://raw.githubusercontent.com/mauriciocartagena/mauriciocartagena/master/img/primefaces.svg" height="47" alt="PrimeFaces"/>
+
 **Backend**
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,graphql,laravel,nginx&theme=dark)](https://skillicons.dev)
